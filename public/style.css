@@ -1,0 +1,19 @@
+body {
+    background: #356;
+    color: #24d079;
+}
+
+.lockedView {
+    height: 100vh;
+    background: url('lock-9.jpeg') top center;
+    background-size: cover;
+}
+.userView {
+    height: 100vh;
+    background: url('escalator.jpeg') top center;
+    background-size: cover;
+}
+
+a {
+    /*color: inherit;*/
+}
